@@ -88,12 +88,24 @@ Then the content should be unique and reflect the skills and personality of the 
     - How long you spent working on this assignment
 
 
-Number and name of feature: Feature 1: Refactor the CSS
+Number and name of feature: **Feature 1 - Refactor the CSS**
 
 Estimate of time needed to complete: 45 minutes
 
 Start time: 5:21pm
 
-Finish time: _____
+Finish time: 6:16pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 55 minutes
+
+
+
+Number and name of feature: **Feature #2: Modify the contents**
+
+Estimate of time needed to complete: 60 minutes
+
+Start time: 6:26pm
+
+Finish time: 
+
+Actual time needed to complete:

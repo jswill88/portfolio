@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans+Extra+Condensed&display=swap');
 
 html {
   box-sizing: border-box;
@@ -11,7 +11,7 @@ html {
 
 body {
   background: #fff;
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Fira Sans Extra Condensed', sans-serif;
   font-size: 19pt;
   font-weight: 300;
   line-height: 1.75em;

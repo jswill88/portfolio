@@ -1709,7 +1709,7 @@ br.clear {
       }
 
         #nav ul li a.active span:before {
-          color: #e27689;
+          color: #6891c2;
         }
 
 /* Footer */
@@ -1758,7 +1758,7 @@ br.clear {
   }
 
     #main > section.dark {
-      color: #ddd;
+      color: rgb(62, 59, 59);
       color: rgba(255, 255, 255, 0.75);
     }
 
@@ -1787,8 +1787,8 @@ br.clear {
     }
 
     #main > section.one {
-      background-color: #81918E;
-      background-image: url("../../images/banner.jpg");
+      background-color: rgb(136, 138, 138);
+      background-image: url("../../images/brick-wall.jpg");
     }
 
     #main > section.two {
